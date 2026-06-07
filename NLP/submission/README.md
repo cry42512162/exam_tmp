@@ -68,7 +68,7 @@ submission/
 - `tokenizer_config.json`
 - `vocab.txt`
 
-> 注：数据和模型文件较大，未包含在 Git 提交中（已在 .gitignore 中排除）。可从网盘：________ 下载，解压后按上述目录结构放置即可。
+> 注：数据和模型文件较大，未包含在 Git 提交中（已在 .gitignore 中排除）。可从网盘：（https://pan.baidu.com/s/1LpPkTuCgDI1k2s8m3AziKQ 提取码: fnvq）下载，解压后按上述目录结构放置即可。
 
 ---
 
